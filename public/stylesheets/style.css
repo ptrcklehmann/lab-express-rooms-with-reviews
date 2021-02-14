@@ -9,7 +9,6 @@ h1 {
   color: 15px; }
 
 /*# sourceMappingURL=style.css.map */
-@import 'https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.3.45/css/materialdesignicons.min.css';
 @import "tailwindcss/base";
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
